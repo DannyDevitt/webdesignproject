@@ -1,0 +1,31 @@
+img{
+	width:400px;
+	height:400px;
+	background:white;
+	
+}
+.row{
+	text-align:center;
+	background:white;
+}
+.title{
+	text-decoration:underline;
+}
+.quote{
+	font-style:italic;
+}
+h2{
+	text-decoration:underline;
+}
+p{
+	font-size:150%;
+}
+.konami{
+	width: 860px;
+}
+.aboutme{
+	font-size:150%;
+}
+body{
+	background-image: url(images/bgimage.jpg)
+}
